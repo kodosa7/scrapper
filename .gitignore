@@ -1,0 +1,5 @@
+*.pyc
+__pycachce__
+myvenv
+db.sqite3
+/DS_Store
